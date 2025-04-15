@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismael Gomez</h1>
-<h3 align="center">A passionate developer from Spain, Always looking for new ideas on how to break production (without anyone noticing)</h3>
+<h3 align="center">A passionate developer from Spain, Always looking for new ideas on how to break production</h3>
+<p align="center">(Without anyone noticing)</p>
 
 <!--
 **ismaelgo97/ismaelgo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
